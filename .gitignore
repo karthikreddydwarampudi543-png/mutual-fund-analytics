@@ -1,0 +1,6 @@
+﻿venv/
+__pycache__/
+*.pyc
+*.zip
+raw_extracted/
+blue stock data sets/
